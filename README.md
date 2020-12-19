@@ -5,11 +5,27 @@
 
 
 ## :clipboard:개발환경
-- 
+- intellij
+- HeidiSQL
+- Postman
+- Github
+
+## :clipboard:사용기술
+### back-end
+- java9
+- Spring MVC
+- Spring 
+- Mysql
+- Maven
+### front-end
+- JSP
+- javscript
+- jQuery
+- bootstrap
+
 ## :clipboard:목표
-- 
-- docker를 통한 이미지 배포
 - jenkins 적용
 - CI/CD 적용
+- TDD 개발
 
 
