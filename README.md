@@ -7,9 +7,9 @@
 ## :clipboard:개발환경
 - 
 ## :clipboard:목표
-- :white_check_mark:
-- :white_check_mark:docker를 통한 이미지 배포
-- :white_check_mark:jenkins 적용
-- :white_check_mark:CI/CD 적용
+- 
+- docker를 통한 이미지 배포
+- jenkins 적용
+- CI/CD 적용
 
 
